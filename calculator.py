@@ -1,3 +1,7 @@
+def multiply(a, b):
+    """This function multiplies two numbers."""
+    return a * b
+
 def add(a, b):
     """This function adds two numbers."""
     return a + b
